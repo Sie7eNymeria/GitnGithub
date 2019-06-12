@@ -1,0 +1,5 @@
+Curso de Git y GitHub en Platzi.
+
+Este curso es impartido por Freddy Vega, CEO de Platzi.
+
+Contenido actualizado.
