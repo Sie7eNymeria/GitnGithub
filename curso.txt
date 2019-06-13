@@ -1,5 +1,7 @@
 Curso de Git y GitHub en Platzi.
 
-Este curso es impartido por Freddy Vega, CEO de Platzi. Freddy tiene 32 años, nació en Colombia y ha vivido en todo el mundo.
+Este curso es impartido por Freddy Vega, CEO de Platzi.
+Freddy tiene 32 años, nació en Colombia y ha vivido en todo el mundo.
 
-Contenido actualizado.
+Estoy aprendiendo los fundamentos de git que me permitirán utilizar el
+control de versiones para un mejor control sobre el proyecto.
